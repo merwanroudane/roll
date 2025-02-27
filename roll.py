@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-pip install matplotlib
 import matplotlib.pyplot as plt
 import statsmodels.api as sm
 from statsmodels.regression.rolling import RollingOLS, RollingWLS
